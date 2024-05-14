@@ -1,0 +1,41 @@
+	///You can find below lines from text file
+			var $this = $(this).html(event.strftime(''
+			+ '<div class="time-bar"><span class="time-box">%w</span> <span class="line-b">weeks</span></div> '
+			+ '<div class="time-bar"><span class="time-box">%d</span> <span class="line-b">days</span></div> '
+			+ '<div class="time-bar"><span class="time-box">%H</span> <span class="line-b">hr</span></div> '
+			+ '<div class="time-bar"><span class="time-box">%M</span> <span class="line-b">min</span></div> '
+			+ '<div class="time-bar"><span class="time-box">%S</span> <span class="line-b">sec</span></div>'));
+		});
+
+Head
+
+ <!-- bootstrap css -->
+      <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+      <!-- style css -->
+      <link rel="stylesheet" type="text/css" href="css/style.css">
+      <!-- Responsive-->
+      <link rel="stylesheet" href="css/responsive.css">
+      <!-- fevicon -->
+      <link rel="icon" href="images/fevicon.png" type="image/gif" />
+      <!-- font css -->
+      <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&family=Raleway:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+      <!-- Scrollbar Custom CSS -->
+      <link rel="stylesheet" href="css/jquery.mCustomScrollbar.min.css">
+      <!-- Tweaks for older IEs-->
+      <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
+   
+body
+
+
+
+      
+      <!-- Javascript files-->
+      <script src="js/jquery.min.js"></script>
+      <script src="js/popper.min.js"></script>
+      <script src="js/bootstrap.bundle.min.js"></script>
+      <script src="js/jquery-3.0.0.min.js"></script>
+      <script src="js/plugin.js"></script>
+      <!-- sidebar -->
+      <script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
+      <script src="js/custom.js"></script>
+  
